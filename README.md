@@ -7,7 +7,6 @@
 ### 🧑‍💻 About Me
 
 - 🚀 Sono un **Junior Full Stack Developer** con la passione per la costruzione di applicazioni web moderne e reattive.
-- 🎮 Attualmente mi sto immergendo nel **mondo dei videogiochi** - sia in termini di sviluppo che di design.
 - 📚 Mi piace imparare nuove tecnologie, framework e sperimentare strumenti.
 - 🌱Atualmente sto ampliando le mie competenze nello **sviluppo di giochi** (Unity, Godot).
 - 📙 Ampliando le conoscenze riguardante C#(ASP.NET).
@@ -18,7 +17,6 @@
 ### 🧑‍💻 About Me
 
 - 🚀 I'm a **Junior Full Stack Developer** with a passion for building modern, responsive web applications.
-- 🎮 I'm currently diving deeper into the **gaming world** — both in terms of development and design.
 - 📚 I love learning new technologies, frameworks and experimenting with tools.
 - 🌱 Currently expanding my skills in **game development** (Unity, Godot).
 - 📙  Broadening knowledge regarding C#(ASP.NET).
