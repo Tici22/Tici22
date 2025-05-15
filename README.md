@@ -10,7 +10,8 @@
 - 📚 Mi piace imparare nuove tecnologie, framework e sperimentare strumenti.
 - 🌱Atualmente sto ampliando le mie competenze nello **sviluppo di giochi** (Unity, Godot).
 - 📙 Ampliando le conoscenze riguardante C#(ASP.NET).
-  
+- 👀 Sto cercando di collaborare a vari progetti e di imparare di più su diversi linguaggi
+
   ---
 <h2>ENG</h2>
 
@@ -20,6 +21,7 @@
 - 📚 I love learning new technologies, frameworks and experimenting with tools.
 - 🌱 Currently expanding my skills in **game development** (Unity, Godot).
 - 📙  Broadening knowledge regarding C#(ASP.NET).
+- 👀 I’m looking to collaborate on various projects and learn more about different languages
   
   ---
 ### 🧠 Tech & Languages I Know
